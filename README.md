@@ -19,9 +19,9 @@ We want to maximuize our safety.
 
 ## Finding Data
 
-* https://www.kaggle.com/sobhanmoosavi/us-accidents
-  * The data was collected from multiple entities, such as US and state departments of transportation, law enforcment agencies, traffic cameras, and traffic sensors within the road-networks
-  * There are 1516064 rows in the dataset
-  * There are 47 coumns in the dataset
-  * We can answer where the most accidents happened in Washington, and what time would be the most likely time to get into an accident
+1. https://www.kaggle.com/sobhanmoosavi/us-accidents
+   * The data was collected from multiple entities, such as US and state departments of transportation, law enforcment agencies, traffic cameras, and traffic sensors within the    road-networks
+   * There are 1516064 rows in the dataset
+   * There are 47 coumns in the dataset
+   * We can answer where the most accidents happened in Washington, and what time would be the most likely time to get into an accident
 
