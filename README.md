@@ -24,4 +24,8 @@ We want to maximuize our safety.
    * There are 1516064 rows in the dataset
    * There are 47 coumns in the dataset
    * We can answer where the most accidents happened in Washington, and what time would be the most likely time to get into an accident
-
+2. https://data-seattlecitygis.opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec63a0022ab_0/explore?location=47.605077%2C-122.325670%2C13.14
+   * The data was collected by the Seattle Police Department.
+   * There are 229951 rows.
+   * There are 39 columns.
+   * We can anwser question 1 and 2 if we decided to localize our questions to Seattle.
