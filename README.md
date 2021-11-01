@@ -29,3 +29,8 @@ We want to maximuize our safety.
    * There are 229951 rows.
    * There are 39 columns.
    * We can anwser question 1 and 2 if we decided to localize our questions to Seattle.
+3. https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2019/National/
+   * The data was collected by the National Highway Traffic Safety Administration
+   * There are 33245 rows
+   * There are 91 columns
+   * We can answer answer question 1 as there is longitude and latitude data as well as question 2 for time as well as the time is listed.
