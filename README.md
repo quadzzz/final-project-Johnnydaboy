@@ -4,8 +4,9 @@
 Injuries/Mortalities while driving in Washington
 
 > - Why are you interested in this field/domain?
+>     - We want to maximize our safety.
+>     - One of our groupmates drives at 4AM and we want to increase their likelihood of survival.
 
-We want to maximuize our safety.
 > - What other examples of data driven project have you found related to this domain (share at least 3)?
 
 * https://igottadrive.com/drivers-ed-fun-facts/worst-times-to-drive
@@ -20,7 +21,7 @@ We want to maximuize our safety.
 ## Finding Data
 
 1. https://www.kaggle.com/sobhanmoosavi/us-accidents
-   * The data was collected from multiple entities, such as US and state departments of transportation, law enforcment agencies, traffic cameras, and traffic sensors within the    road-networks
+   * The data was collected from multiple entities, such as US and state departments of transportation, law enforcment agencies, traffic cameras, and traffic sensors within the road-networks
    * There are 1516064 rows in the dataset
    * There are 47 coumns in the dataset
    * We can answer where the most accidents happened in Washington, and what time would be the most likely time to get into an accident
