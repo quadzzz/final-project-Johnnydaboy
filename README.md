@@ -13,9 +13,9 @@ We want to maximuize our safety.
 * https://www.cdc.gov/transportationsafety/impaired_driving/impaired-drv_factsheet.html
 > - What data-driven questions do you hope to answer about this domain (share at least 3)?
 
-1. Where the most accidents happen in Washington
-2. What would be the most likely time to get into an accident
-3. Accident rates among car manufactuers in Washington
+1. Where the most accidents happen in Washington?
+2. What would be the most likely time to get into an accident?
+3. Accident rates among car manufactuers in Washington?
 
 ## Finding Data
 
