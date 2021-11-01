@@ -6,6 +6,7 @@ Injuries/Mortalities while driving in Washington
 > - Why are you interested in this field/domain?
 >     - We want to maximize our safety.
 >     - One of our groupmates drives at 4AM and we want to increase their likelihood of survival.
+>     - One of our groupmates drives every day and would like to decrease their chances of being involved in an accident. 
 
 > - What other examples of data driven project have you found related to this domain (share at least 3)?
 
@@ -17,6 +18,7 @@ Injuries/Mortalities while driving in Washington
 1. Where the most accidents happen in Washington?
 2. What would be the most likely time to get into an accident?
 3. Accident rates among car manufactuers in Washington?
+4. Accidents among age groups?
 
 ## Finding Data
 
